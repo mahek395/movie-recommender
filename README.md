@@ -48,7 +48,3 @@ The system uses two recommendation approaches:
 - Node.js
 - React
 - Vite
-
-## License
-
-MIT
